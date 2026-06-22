@@ -2,7 +2,7 @@
 
 ## Course Overview
 
-This course is focused on software analysis, requirememtns gathering, system design,and UML modeling. The primary project involved designing the DriverPass system, a platform that helps students prepare for DMV examinations and schedule driving lessons.
+This course is focused on software analysis, requirements gathering, system design,and UML modeling. The primary project involved designing the DriverPass system, a platform that helps students prepare for DMV examinations and schedule driving lessons.
 
 ## Skills Demonstrated
 
